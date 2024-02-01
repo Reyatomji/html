@@ -1,0 +1,36 @@
+</html><!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>TARL COFFEE LIMITTED</title>
+            <h1>TARL COFFEE</h1>
+            <font face="aerial" size="6 " color="green">
+            <p align="justify"><i>Coffee is a widely enjoyed beverage around the world, and there are several attractive aspects that contribute to its popularity:
+
+                Aroma: The rich and inviting aroma of freshly brewed coffee is one of its most appealing features. The scent of coffee is known to be comforting and can create a pleasant atmosphere.
+                
+                Variety: Coffee comes in various forms, from black coffee to lattes, cappuccinos, and more. The versatility of coffee allows individuals to choose a style that suits their taste preferences.
+                
+                Caffeine Boost: Coffee contains caffeine, a natural stimulant that can help improve alertness, concentration, and mood. Many people appreciate the energy boost they get from a cup of coffee, especially in the morning.
+                
+                Social Aspect: Coffee is often associated with socializing. Cafes and coffee shops provide cozy environments for people to meet, work, or relax, making coffee a beverage that brings people together.
+                
+                Cultural Significance: Coffee has deep cultural roots in various societies. Different cultures have unique ways of preparing and enjoying coffee, and it often plays a significant role in social rituals and traditions.
+                
+                Artisanal Culture: The rise of specialty coffee and artisanal roasters has created a subculture around coffee appreciation. People now explore and appreciate different coffee beans, brewing methods, and flavor profiles.
+                
+                Warmth and Comfort: A hot cup of coffee is associated with warmth and comfort, making it a popular choice during colder seasons.we TARL COFFEE offers u a variety of coffee all over india</i> </p>
+            </font>
+            <image src="cold coffee_files/cold-coffee-2.jpg" height="200px" width="200px"> <font size="10" color="brown" >COLD COFFEE</font>
+        </head>
+        <body>
+            
+        </body>
+        </html>
+</head>
+<body>
+    
+</body>
+</html>
